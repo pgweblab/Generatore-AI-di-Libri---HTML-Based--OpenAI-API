@@ -54,8 +54,4 @@ L'interfaccia moderna e responsive guida l’utente nella definizione del proget
 
 ## 💻 Avvio locale
 
-Puoi utilizzare il progetto localmente in pochi secondi:
-
-```bash
-git clone https://github.com/pgweblab/Generatore-AI-di-Libri---HTML-Based--OpenAI-API.git
-cd Generatore-AI-di-Libri---HTML-Based--OpenAI-API
+Puoi utilizzare il progetto localmente in pochi secondi copiando direttamnte il codice o salvandolo come file HTML.
