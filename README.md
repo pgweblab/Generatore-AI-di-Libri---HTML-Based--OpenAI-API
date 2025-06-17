@@ -4,6 +4,8 @@ Applicazione web standalone basata su HTML, CSS e JavaScript che consente la gen
 
 L'interfaccia moderna e responsive guida l’utente nella definizione del progetto editoriale, mentre la logica interna si occupa di automatizzare l’intero flusso: dalla generazione dei titoli, all'elaborazione dei testi, fino all’esportazione del risultato in `.txt` o `.rtf`. Tutto funziona direttamente nel browser, senza necessità di backend o installazioni server-side.
 
+Per versioni più avanzate e personalizzate scrivimi: info@ai-creative-studio.com
+
 ## ✨ Funzionalità
 
 - UI moderna con Bootstrap 5 e supporto mobile
